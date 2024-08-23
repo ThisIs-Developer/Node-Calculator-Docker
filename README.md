@@ -36,7 +36,7 @@ To run the calculator application locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/iam-baivab/Node-Calculator-Docker.git
+   git clone https://github.com/ThisIs-Developer/Node-Calculator-Docker.git
    cd Node-Calculator-Docker
    ```
 
@@ -99,6 +99,6 @@ Contributions are welcome! Fork the repository, make improvements, and submit a 
 This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for details.
 
 [license-shield]: https://img.shields.io/badge/License-Apache%202.0-red.svg
-[license-url]: https://github.com/iam-baivab/Node-Calculator-Docker/blob/main/LICENSE
+[license-url]: https://github.com/ThisIs-Developer/Node-Calculator-Docker/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=blue
 [linkedin-url]: https://www.linkedin.com/in/baivabsarkar/
